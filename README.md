@@ -2,7 +2,7 @@
 
 ### Education
 - Bootcamp Data Scientist | Tripleten (2023 - 2024)
-- BE | Jenderal Achmad Yani University	(2017 - 2021)
+- B.E. | Jenderal Achmad Yani University	(2017 - 2021)
 
 ### Project Experiences
 #### Interconnection Telecommunications Operator
