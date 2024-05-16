@@ -1,9 +1,13 @@
 # Data Scientist
 
 ### Education
-- Ph.D., Physics | The University of Texas at Dallas (May 2022)
-- M.S., Physics | The University of Texas at Dallas (December 2019)
-- B.S., Physics | The University of Texas at Dallas (May 2017)
+- Tripleten – Bootcamp Data Scientist	2023 - 2024 
+Tripelten’s Data Scientist program studies some of the most advanced tools in the digital professions: data analytics, AI systems, and natural languages and more, and involves the completion of 12 projects based on real-world data.
+
+- Bachelor of Mechanical Engineering	2017 - 2021
+Jenderal Achmad Yani University
+GPA:  3.14 /4.0
+
 
 
 
