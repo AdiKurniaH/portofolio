@@ -1,10 +1,10 @@
 # Data Scientist
 
-### Education
+## Education
 - Bootcamp Data Scientist | Tripleten (2023 - 2024)
 - B.E. | Jenderal Achmad Yani University	(2017 - 2021)
 
-### Project Experiences
+## Project Experiences
 #### Interconnection Telecommunications Operator
 Create a model to predict client movement. If it is discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Some other goals :
 -	To help the marketing team compare the monthly payment distribution of all active clients with clients who have left. 
@@ -22,7 +22,7 @@ Looking for the best place to develop 200 new oil wells.
 -	Create a model that will help select regions with the highest profit margins by using bootstrapping techniques to analyze potential profits and risks. 
 -	Predict the volume of reserves in new wells and select the oil well that has the highest estimated value.
 
-### Work Experiences
+## Work Experiences
 #### Maintenance Engineering | PT. Bakti Adi Sejahtera   	(OCT 2015 - Present)
 Job Placement at PT. Biofarma.
 -	Maintenance and Repair of Refrigeration Machines (Central Chiller)
